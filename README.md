@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ik.imagekit.io/jyx7871cz/4k_red_waves.jpeg" width="100%" height="20" style="object-fit: cover; border-radius: 4px;" alt="wave separator" />
+  <img src="https://ik.imagekit.io/jyx7871cz/4k_red_waves.jpeg" width="100%" alt="wave separator" />
 </div>
 
 <div align="center">
