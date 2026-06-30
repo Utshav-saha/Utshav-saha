@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://ik.imagekit.io/jyx7871cz/4k_red_waves.jpeg" width="100%" height="20" style="object-fit: cover; border-radius: 4px;" alt="wave separator" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDF2dmJydGZqZDVzZTZscDVybHYzcmNwNWdiYXFoYWV3bjExZGZtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ztpMY1t5VYWlO/giphy.gif" width="50%" style="object-fit: cover; border-radius: 10px;" alt="Aesthetic Header" />
