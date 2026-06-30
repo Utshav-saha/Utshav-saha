@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://ik.imagekit.io/jyx7871cz/4k_red_waves.jpeg" width="100%" alt="wave separator" />
+  <img src="https://ik.imagekit.io/jyx7871cz/4k_red_waves.jpeg" width="100%" height="20" style="object-fit: cover; border-radius: 4px;" alt="wave separator" />
 </div>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJqZHEzZnp5Mm1zeThqZzgzYmFxazJhbHB6a2k2YjNyMTF1a2Y2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BMfsFjz03H1vfy7OXr/giphy.gif" width="100%" height="250" style="object-fit: cover; border-radius: 10px;" alt="Aesthetic Header" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJqZHEzZnp5Mm1zeThqZzgzYmFxazJhbHB6a2k2YjNyMTF1a2Y2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BMfsFjz03H1vfy7OXr/giphy.gif" width="100%" style="object-fit: cover; border-radius: 10px;" alt="Aesthetic Header" />
 <h1 align="center">𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝚄𝚝𝚜𝚑𝚊𝘃 𝚂𝚊𝚑𝚊 👋</h1>  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=CSE+Undergraduate+%40+BUET;" alt="Typing SVG" />
 
   <p align="center">
