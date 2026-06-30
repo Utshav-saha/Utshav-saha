@@ -31,7 +31,7 @@
       <b>Education:</b> Computer Science and Engineering Undergraduate at Bangladesh University of Engineering and Technology (BUET)<br><br>
       <b>Development:</b> Building scalable web architectures using the <b>PERN stack</b> and learning <b>RAG-based pipelining</b> using <b>FastAPI</b>.<br><br>
       <b>Research & AI:</b> Learning <b>ML</b> and <b>Computer Vision</b> concepts, with a strong interest in <b>Computational Connectomics</b>.<br><br>
-        🕹️ <b>Game Dev:</b> Learning the basics of game development using <b>Godot</b> and <b>Unity</b>.<br><br>    </td>
+        <b>Game Dev:</b> Learning the basics of game development using <b>Godot</b> and <b>Unity</b>.<br><br>    </td>
     <td width="40%" align="center">
       <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="80%" style="border-radius: 10px;" alt="Coding GIF" />
     </td>
